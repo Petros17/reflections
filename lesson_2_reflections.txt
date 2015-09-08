@@ -1,0 +1,2 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+-Metadata for a new repository is created, and Git is aware of it's existance
