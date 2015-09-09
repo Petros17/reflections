@@ -16,3 +16,9 @@
 
 5.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 -Merging two branches create a single branch, that can reach all the commits from both branches.
+
+
+6.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-Pros: no need to think about merging, Git does all the work
+-Cons: trouble in resolving conflicts, it's better for the human to double-check,
+on opose to the machine deciding
