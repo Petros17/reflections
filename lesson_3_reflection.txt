@@ -23,3 +23,8 @@ Use branching for experimenting and doing multiple actions/work with different p
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -Everything would have to be done manually. Transfering files using .zip/.rar, or USB drives/CDs on any important change.
 After mastering Git, everything would be easier.
+
+
+6.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-When there are multiple people working on a project, and there needs to be verification, 
+or else someone might suffer a change he's not aware of. It's harder, but safer.
