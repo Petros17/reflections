@@ -8,3 +8,11 @@
 
 3.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 -Making various experiments and changes for which I am not sure that will be part of master branch
+
+
+4. How do the diagrams help you visualize the branch structure?
+-Easier to track reachability and how a commit affects it's branch or other branches
+
+
+5.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-Merging two branches create a single branch, that can reach all the commits from both branches.
