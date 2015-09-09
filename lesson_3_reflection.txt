@@ -14,3 +14,7 @@ Branch: create label for commit on the computer
 -Use forks when you want to continue someone else's work without interfering with their work.
 Use clone to enable editing repo files on the computer
 Use branching for experimenting and doing multiple actions/work with different people on the same repo
+
+
+4.What is the benefit of having a copy of the last known state of the remote stored locally?
+-If working offline, that would be the state to compare to while making changes
