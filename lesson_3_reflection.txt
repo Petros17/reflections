@@ -18,3 +18,8 @@ Use branching for experimenting and doing multiple actions/work with different p
 
 4.What is the benefit of having a copy of the last known state of the remote stored locally?
 -If working offline, that would be the state to compare to while making changes
+
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+-Everything would have to be done manually. Transfering files using .zip/.rar, or USB drives/CDs on any important change.
+After mastering Git, everything would be easier.
